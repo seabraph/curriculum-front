@@ -1,0 +1,37 @@
+.nav-bar{
+    background-color: #1E2033;
+}
+body{
+    color: #fff;
+    text-align: justify;
+}
+
+#info{
+    margin: 0;
+}
+
+#contact-info{
+    text-align: center;
+}
+
+.material-icons{
+    cursor: pointer;
+    color: #2196FD;
+}
+.principal-text{
+    color: #fff;
+    text-align: center;
+}
+
+#footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #1F2032;
+}
+.page-footer{
+    background-color: #1F2032;
+    text-align: justify;
+}
+.footer-copyright{
+    text-align: center;
+}
