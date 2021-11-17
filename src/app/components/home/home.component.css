@@ -1,26 +1,10 @@
 .nav-bar{
     background-color: #1E2033;
 }
+
 body{
     color: #fff;
     text-align: justify;
-}
-
-#info{
-    margin: 0;
-}
-
-#contact-info{
-    text-align: center;
-}
-
-.material-icons{
-    cursor: pointer;
-    color: #2196FD;
-}
-.principal-text{
-    color: #fff;
-    text-align: center;
 }
 
 #footer{
@@ -34,9 +18,4 @@ body{
 }
 .footer-copyright{
     text-align: center;
-}
-
-.icon{
-    font-size: 40px;
-    margin: 0 15px;
 }

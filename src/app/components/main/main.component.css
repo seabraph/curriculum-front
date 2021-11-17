@@ -1,0 +1,22 @@
+
+.icon{
+    font-size: 40px;
+    margin: 0 15px;
+}
+
+#info{
+    margin: 0;
+}
+
+#contact-info{
+    text-align: center;
+}
+
+.material-icons{
+    cursor: pointer;
+    color: #2196FD;
+}
+.principal-text{
+    color: #fff;
+    text-align: center;
+}

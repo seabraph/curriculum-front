@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+.card-image img{
+    width: 200px;
+}
+
+.card-stacked{
+    background-color: #1E2033;
+}
+
+#link {
+    color: #2196FD;
+}
