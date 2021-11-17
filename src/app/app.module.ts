@@ -6,6 +6,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { HomeComponent } from './components/home/home.component';
 import { FaIconLibrary, FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
 @NgModule({
   declarations: [
@@ -22,6 +23,6 @@ import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 })
 export class AppModule {
   constructor(private library: FaIconLibrary){
-    library.addIcons(faGithub, faLinkedin)
+    library.addIcons(faGithub, faLinkedin, faEnvelope)
   }
 }

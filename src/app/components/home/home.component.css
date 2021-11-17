@@ -35,3 +35,8 @@ body{
 .footer-copyright{
     text-align: center;
 }
+
+.icon{
+    font-size: 40px;
+    margin: 0 15px;
+}
